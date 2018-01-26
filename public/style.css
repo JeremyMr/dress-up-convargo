@@ -3,4 +3,40 @@ color:black;
 background-color:white;
 background-image:url(background.jpg);
 background-repeat:no-repeat;
+font-family: 'Comic Sans MS', cursive;
 }
+
+body{
+	color: #191970;
+}
+
+h1{
+	font-size: 48px;
+	text-align: center;
+}
+
+h2{
+	font-size: 24px;
+	text-align: center;
+}
+
+#title_trucker{
+	font-weight: bold;
+}
+#title_shipper{
+	font-weight: bold;
+}
+#D_O{
+	font-weight: bold;
+}
+
+input{
+	border-radius: 8px;
+	background-color: #C0C0C0;
+	color: #191970;
+}
+
+input:placeholder-shown {
+  border: 2px solid black;
+}
+
